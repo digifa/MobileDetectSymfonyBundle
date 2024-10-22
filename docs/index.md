@@ -12,7 +12,6 @@ Manages site views for the various mobile devices (mobile, tablet, full)
 Redirects to mobile and tablet sites
 
 ## Documentation
-You find a more detailed documentation in [docs/index.md](docs/index.md).
 
 ### Installation
 ```sh
@@ -23,12 +22,12 @@ composer require digifa/mobile-detect-symfony-bundle:^4.*
 
 ## Contribute and feedback
 Any feedback and contribution will be very appreciated.
-Read [Contribution](docs/contribution.md) for more informations.
+Read [Contribution](contribution.md) for more informations.
 
 ## License and credits
 
 ### License
-This bundle is under the MIT license. See the complete [license](LICENSE) in the bundle.
+This bundle is under the MIT license. See the complete [license](../LICENSE) in the bundle.
 
 ### Credits
 The author [tattali](https://github.com/tattali) for [https://github.com/tattali/MobileDetectBundle]() and [all contributors](https://github.com/suncat2000/MobileDetectBundle/graphs/contributors),
