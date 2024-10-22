@@ -29,7 +29,6 @@ jobs:
           - 6.4
           # Test latest stable versions
           - 7.1
-          - 7.2
           - 7.*
     steps:
       - name: Checkout code
