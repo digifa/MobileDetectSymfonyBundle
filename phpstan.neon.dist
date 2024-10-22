@@ -2,8 +2,6 @@ parameters:
     level: 8
     tmpDir: .phpstan
     paths:
-    - bin/
     - config/
-    - public/
     - src/
     - tests/
