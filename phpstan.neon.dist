@@ -1,0 +1,7 @@
+parameters:
+    level: 8
+    tmpDir: .phpstan
+    paths:
+    - config/
+    - src/
+    - tests/
